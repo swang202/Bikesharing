@@ -26,6 +26,11 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+.DS_store
+
+#data
+citibike.csv
+201908-citibike-tripdata.csv
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
